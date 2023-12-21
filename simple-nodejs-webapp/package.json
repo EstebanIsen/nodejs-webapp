@@ -1,0 +1,20 @@
+{
+  "name": "simple-nodejs-webapp",
+  "version": "1.0.0",
+  "description": "The application uses an environment variable `APPLICATION_INSTANCE`.   This variable will be used by the application to listen on a specific path (i.e. `/${application_instance}/health`).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/training788/simple-nodejs-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/training788/simple-nodejs-webapp/issues"
+  },
+  "homepage": "https://gitlab.com/training788/simple-nodejs-webapp#readme"
+}
