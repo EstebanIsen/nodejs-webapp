@@ -1,11 +1,15 @@
 ## Q1: Define what is a Microservices architecture and how does it differ from a Monolithic application.
 **Microservices:** An architectural style with small, independent services.
+
 **Monolithic:** Single, tightly integrated application.
 
 ## Q2: Compare Microservices and Monolithic architectures by listing their respective pros and cons.
 **Microservices Pros:** Scalability, technology flexibility.
+
 **Microservices Cons:** Distributed complexity, data management challenges.
+
 **Monolithic Pros:** Simplicity, easier debugging.
+
 **Monolithic Cons:** Limited scalability, technology stack constraints.
 
 ## Q3: In a Micoservices architecture, explain how should the application be split and why.
